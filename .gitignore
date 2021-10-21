@@ -141,6 +141,6 @@ cython_debug
 
 persistentdata/*
 
-settings.py
+#settings.py
 
 locals_vars.py
