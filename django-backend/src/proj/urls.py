@@ -19,5 +19,5 @@ from webserver.views import test_req
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('/test',test_req)
+    path('test/',test_req)
 ]
