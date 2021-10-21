@@ -1,1 +1,1 @@
-# Test proj for deploy-django-postgresql-docker
+# Test proj for django+postgresql+docker
